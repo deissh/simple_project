@@ -1,0 +1,1 @@
+export { default as CompletedPayment } from './completed-payment';
